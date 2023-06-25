@@ -1,9 +1,9 @@
 <script setup>
-  import HelloWorld from './components/HelloWorld.vue'
+  // 這裡可以放那種使用者一進網頁就要執行的東西
 </script>
 
 <template>
-  <!-- router-view前面可以放header -->
+  <!-- router-view前面可以放/components/header -->
   <!-- 這樣之後就不用每個文件都打一遍header的碼 -->
   <router-link to="/">首頁</router-link>
   <router-link to="/outside">另一頁</router-link>

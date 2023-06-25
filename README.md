@@ -1,7 +1,12 @@
-# Vue 3 + Vite
+# 大標
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+## 中標
 
-## Recommended IDE Setup
+```語言名（例如js或JavaScript）
+//這裡可以放代碼
+```
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+．圖片放在assets資料夾裡的images資料夾
+．常用的組件（例如header）放到components資料夾
+．頁面的路徑和對應的文件就放route資料夾的index.js裡
+．專案的門面就是這一層的index.html
